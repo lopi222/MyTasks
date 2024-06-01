@@ -11,7 +11,7 @@
 <img src="setup.png">
 <img src="setup2.png">
 4. Перезапустить OpenServer и зайти в командную строку:
-<img src="setup.png">
+<img src="cmd.png">
 5. Выполнить следующие команды в консоле OpenServer:
 
 ```
@@ -21,6 +21,6 @@ composer install
 php artisan migrate
 ```
 6. Запустите OpenServer, выберите mytask, открыть в браузере:
-<img src="cmd.png">
+<img src="progect_go.png">
 
 Теперь приложение готово для использования!
