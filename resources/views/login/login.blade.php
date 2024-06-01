@@ -28,7 +28,7 @@
         </div>
       @endif
 
-      <div class="signup-link"> <a href="{{ route('regist') }}"> Нету аккаунта?</a></div>
+      <div class="signup-link"> <a href="{{ route('regist') }}"> Нет аккаунта?</a></div>
     </form>
   </div>
 </div>
